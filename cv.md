@@ -29,8 +29,10 @@ Novice frontend-developer without technical education, easy to learn, responsibl
     - Graphic Editor: Corel Draw, Adobe Photoshop, Adobe Illustrator;
     - Version Control: Git (GitHub/GitLab (Git Extensions));
 
-### Experience: 
- #### Selfeducation:
+### Experience:
+
+#### Selfeducation:
+
 1. [Freecodecamp](https://www.freecodecamp.org/)
 2. [Codecademy](https://www.codecademy.com/) [Profile](https://www.codecademy.com/profiles/zuhioSherden4282567802)
 3. [Htmlacademy](https://htmlacademy.ru/) [Profile](https://htmlacademy.ru/profile/id1196059)
@@ -42,7 +44,9 @@ Novice frontend-developer without technical education, easy to learn, responsibl
 --- 
 
 ### Code examples:
-  #### Basic tutorials: 
+
+#### Basic tutorials:
+
 ```javascript
 	alert( 'Привет, мир!' );
 ```
