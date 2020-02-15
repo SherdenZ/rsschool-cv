@@ -21,7 +21,7 @@ Novice frontend-developer without technical education, easy to learn, responsibl
 
 ### Technical Skill:
 * Programming Languages:
-1. ​Javascript(ES5/ES6)
+1. Javascript(ES5/ES6)
 2. HTML5
 3. CSS3
 * Tools:
