@@ -1,0 +1,62 @@
+body {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+h1,
+h3 {
+    padding-left: 2%;
+}
+
+h4 {
+    padding-left: 3%;
+}
+
+strong {
+    padding-right: 3%;
+}
+
+p,
+ol,
+ul,
+pre,
+.code-example a {
+    padding-left: 4%;
+}
+
+hr {
+    height: 5px;
+    background-color: rgb(172, 172, 172);
+    border: none;
+}
+
+strong.phone {
+    margin-right: 2%;
+}
+
+img.avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 25%;
+    float: right;
+}
+
+article {
+    padding-left: 4%;
+}
+
+.red {
+    color: #D73A49;
+}
+
+.blue {
+    color: #005CC6;
+}
+
+.purple {
+    color: #6F47C2;
+}
+
+.dark-purple {
+    color: #844E62;
+}
